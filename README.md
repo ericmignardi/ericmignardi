@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Eric Mignardi  
+
 ### Full-Stack Developer
 
 Focused on delivering production-ready architectures, clean API design, and smooth front-end experiences.
 
-## 🚀 Current Project: **Tono — AI Guitar Tone Assistant**
+## 🚀 Current Project: **tono — AI Guitar Tone Assistant**
 
 A full-stack AI SaaS app that recreates guitar tones using OpenAI.
 
