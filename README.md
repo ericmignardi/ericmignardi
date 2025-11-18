@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Eric Mignardi  
+### Full-Stack Developer
 
-<!--
-**ericmignardi/ericmignardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on delivering production-ready architectures, clean API design, and smooth front-end experiences.
 
-Here are some ideas to get you started:
+## 🚀 Current Project: **Tono — AI Guitar Tone Assistant**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full-stack AI SaaS app that recreates guitar tones using OpenAI.
+
+**Built With:**  
+Next.js • TypeScript • Tailwind CSS • Shadcn/ui • Prisma • PostgreSQL (NeonDB) • Clerk • Stripe • OpenAI • Vercel
+
+**Key Features:**  
+- AI-powered tone generation  
+- Subscription billing (Stripe)  
+- Authenticated dashboard (Clerk)  
+- Fast, optimized server actions  
+- Clean modular architecture
+
+## 🛠️ Skills
+
+**Languages:** TypeScript • Java
+**Frontend:** React • Next.js • Tailwind CSS
+**Backend:** Node.js • Express • Spring Boot  
+**Databases:** PostgreSQL • MongoDB • Prisma • Mongoose
+**Tools:** Docker • Git • Render • Vercel
+
+## 📫 Connect
+**LinkedIn:** https://www.linkedin.com/in/ericmignardi/
