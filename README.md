@@ -6,7 +6,7 @@ Focused on delivering production-ready architectures, clean API design, and smoo
 
 ## 🚀 Current Project: **tono**
 
-A full-stack AI SaaS app that recreates guitar tones using OpenAI.
+A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
 
 **Key Features:**  
 - AI-powered tone generation  
