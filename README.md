@@ -9,7 +9,7 @@ Focused on delivering production-ready architectures, clean API design, and smoo
 A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
 
 **Key Features:**  
-- AI-powered tone generation  
+- AI-powered tone generation (OpenAI)
 - Subscription billing (Stripe)  
 - Authenticated dashboard (Clerk)  
 - Fast, optimized server actions  
