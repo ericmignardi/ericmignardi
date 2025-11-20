@@ -18,10 +18,10 @@ A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
 ## 🛠️ Skills
 
 - **Languages:** TypeScript • Java
-- **Frontend:** React • Next.js • Tailwind CSS
-- **Backend:** Node.js • Express • Spring Boot  
+- **Frontend:** React.js • Next.js • Tailwind CSS
+- **Backend:** Node.js • Express.js • Spring Boot  
 - **Databases:** PostgreSQL • MongoDB • Prisma • Mongoose
-- **Tools:** Docker • Git • Render • Vercel
+- **Tools:** Git • Docker • Render • Vercel
 
 ## 📫 Connect
 **LinkedIn:** https://www.linkedin.com/in/ericmignardi/
