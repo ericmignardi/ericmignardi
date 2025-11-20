@@ -12,9 +12,6 @@ Focused on delivering production-ready architectures, clean API design, and smoo
 - **Databases:** PostgreSQL • MongoDB • Prisma • Mongoose
 - **Tools:** Git • Docker • Render • Vercel
 
-## 📫 Connect
-**LinkedIn:** https://www.linkedin.com/in/ericmignardi/
-
 ## 🚀 Current Project: **tono**
 
 A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
