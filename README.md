@@ -4,17 +4,6 @@
 
 Focused on delivering production-ready architectures, clean API design, and smooth front-end experiences.
 
-## 🚀 Current Project: **tono**
-
-A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
-
-**Key Features:**  
-- AI-powered tone generation (OpenAI)
-- Subscription billing (Stripe)  
-- Authenticated dashboard (Clerk)  
-- Fast, optimized server actions  
-- Clean modular architecture
-
 ## 🛠️ Skills
 
 - **Languages:** TypeScript • Java
@@ -25,3 +14,14 @@ A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
 
 ## 📫 Connect
 **LinkedIn:** https://www.linkedin.com/in/ericmignardi/
+
+## 🚀 Current Project: **tono**
+
+A full-stack Next.js AI SaaS app that recreates guitar tones using OpenAI.
+
+**Key Features:**  
+- AI-powered tone generation (OpenAI)
+- Subscription billing (Stripe)  
+- Authenticated dashboard (Clerk)  
+- Fast, optimized server actions  
+- Clean modular architecture
