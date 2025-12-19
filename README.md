@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eric Mignardi  
 
-### Full-Stack Developer
+### Full-Stack Software Developer
 
 Focused on delivering production-ready architectures, clean API design, and smooth front-end experiences.
 
