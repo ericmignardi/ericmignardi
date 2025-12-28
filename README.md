@@ -7,7 +7,7 @@ Focused on delivering production-ready architectures, clean API design, and smoo
 ## 🛠️ Skills
 
 - **Languages:** TypeScript • Java
-- **Frontend:** React.js • Next.js • Tailwind CSS
+- **Frontend:** React • Next.js • Tailwind CSS
 - **Backend:** Node.js • Express.js • Spring Boot  
 - **Databases:** PostgreSQL • MongoDB • Prisma
 - **Tools:** Git • Docker • Render • Vercel
