@@ -29,8 +29,6 @@ My programming background is what I bring on top of the certifications. I'm comf
 - Test and review each build before it goes live, then deploy to Vercel
 - Delivered a customer-facing product configurator for an elevator cab interior manufacturer, where customers submit quote requests that are emailed to both the sales team and the customer
 
-<sub>Client repositories are private under contract.</sub>
-
 ### Projects
 
 | Project | What it is | Stack |
