@@ -15,9 +15,11 @@ My programming background is what I bring on top of the certifications. I'm comf
 ### Skills
 
 - **Support & troubleshooting:** Windows 10/11, hardware and OS troubleshooting, user support and clear communication with non-technical people
-- **Networking:** TCP/IP, DNS, DHCP and networking fundamentals
-- **Virtualization:** VMware Workstation
-- **Tools:** Git & GitHub, Vercel hosting, Claude Code
+- **Systems administration (home lab):** Windows Server 2025, Active Directory, Group Policy, NTFS permissions, print server, AD Certificate Services
+- **Help desk (home lab):** osTicket: ticket triage, SLAs, internal notes, escalation, written ticket resolutions
+- **Networking:** TCP/IP, DNS, DHCP, LDAP/LDAPS and networking fundamentals
+- **Virtualization & containers:** VMware Workstation, Docker
+- **Tools:** PowerShell, Git & GitHub, Vercel hosting, Claude Code
 - **Programming (supporting):** TypeScript, Python, Java, SQL (PostgreSQL)
 
 ### Experience
@@ -33,8 +35,7 @@ My programming background is what I bring on top of the certifications. I'm comf
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| Windows Server 2022 Home Lab | Virtualized multi-machine domain: a Windows Server 2022 domain controller with Windows clients joined to it, OUs, users, security groups, Group Policy (password policies, standard desktops), DHCP scopes, DNS zones and NTFS permissions, plus troubleshooting practice with Event Viewer, Remote Desktop, ping, ipconfig, nslookup and tracert | AD DS, DHCP, DNS, Group Policy, VirtualBox/VMware |
-| [pktforge](https://github.com/ericmignardi/pktforge) | Terminal tool that builds IP/TCP/UDP/ICMP packets layer by layer with field-level header control, with ping, TCP SYN and DNS templates and an interactive TUI with a live hex-dump preview | Python, Scapy, Typer, Textual |
+| [Help Desk-in-a-Box](https://github.com/ericmignardi/helpdesk-in-a-box) | Help desk home lab for a fictional 25-person Hamilton manufacturer: a Windows Server 2025 domain with OUs, security groups, Group Policy (password/lockout, drive maps, printer and software deployment), DNS, DHCP and NTFS file shares, plus an osTicket help desk that staff sign in to with their AD accounts over secure LDAP. Includes 10 documented support tickets (lockouts, permissions, GPO scope, DNS, printing, service accounts) worked from report to resolution | Windows Server 2025, AD DS, Group Policy, AD CS, osTicket, Docker, PowerShell, VMware |
 
 ### Contact
 
